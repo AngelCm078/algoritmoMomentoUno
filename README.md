@@ -4,7 +4,7 @@ Algoritmo creado por Verónica Alejandra Vásquez Cardona  y Miguel Angel Carden
 Nuevas Tecnologías de Programación - Jueves 18:15
 Docente: Juan Esteban Zabala
 
-# Algoritmo
+# Problema
 """
 Una institución educativa se encuentra en proceso de finalizar semestre y en proceso de admisión para el próximo semestre. 
 La institución requiere un software que le permita solucionar estas dos problemáticas con las siguientes restricciones. 
